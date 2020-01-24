@@ -25,7 +25,7 @@
   + Es aquella que cuenta con un solo valor numérico, el cual es determinado al       azar, para cada resultado de un procedimiento. Normalmente es representada con una   "x".
 
 + ¿Qué ejemplo de variables puedes medir y que esten relacionadas con tu carrera como __ingeniero Forestal__?
-Las variables que se pueden medir son: el clima, el pH del suelo, la masa de árboles en un bosque, entre otros.
+  + Las variables que se pueden medir son: el clima, el pH del suelo, la masa de        árboles en un bosque, entre otros.
 
 + ¿Cúal fue la referencia o fuente que consultaste para contestar estas preguntas?
 
